@@ -1,4 +1,3 @@
-Voici une version centrée sur le mod complet, sobre et stylée pour ton dépôt GitHub :
 
 Portal: Not a Lie
 <p align="center">
@@ -8,7 +7,7 @@ Portal: Not a Lie
 - À propos du projet
 Portal: Not a Lie est une extension fan-made pour Portal 2. Ce mod propose une toute nouvelle série de chambres de test complexes, mettant l'accent sur un level design exigeant et une atmosphère immersive au cœur des profondeurs d'Aperture Science.
 
-L'objectif est simple : redécouvrir le plaisir de la réflexion pure à travers des puzzles qui respectent l'héritage de Valve tout en apportant un nouveau défi aux joueurs expérimentés.
+- L'objectif est simple : redécouvrir le plaisir de la réflexion pure à travers des puzzles qui respectent l'héritage de Valve tout en apportant un nouveau défi aux joueurs expérimentés.
 
 - Caractéristiques
 Nouvelle Campagne : Une suite de chambres inédites avec une difficulté progressive.
