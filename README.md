@@ -14,4 +14,4 @@ Nouvelle Campagne : Une suite de chambres inédites avec une difficulté progres
 
 - Design Authentique : Fidélité visuelle aux environnements emblématiques de la franchise.
 
-- Mécaniques Avancées : Utilisation créative des gels, lasers et faisceaux de transport.
+- Mécaniques Avancées : Utilisation créative des gels, lasers et les cubes de shrodinger.
